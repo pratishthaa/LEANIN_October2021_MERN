@@ -1,4 +1,4 @@
-## What is this?
+## Weather App
 This is a MERN stack web application that you can add to your portfolio and mess around with.
 
 Demo: https://mernweatherapp.herokuapp.com/
